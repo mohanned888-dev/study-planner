@@ -1,0 +1,7 @@
+{
+  "name": "madar-study-planner",
+  "version": "2.0.1",
+  "private": true,
+  "description": "Madar Cosmos — a personal study universe. Designed and developed by mohanned.",
+  "scripts": { "build": "node build.mjs", "test": "node --test tests/*.test.cjs" }
+}
